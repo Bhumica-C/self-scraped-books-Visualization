@@ -1,4 +1,4 @@
-Task 3: Data Visualization
+ Data Visualization
 Dataset: scraped_books.csv  
 Tools: Python, Pandas, Matplotlib, Seaborn
 
