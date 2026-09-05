@@ -6,7 +6,7 @@ Tools: Python, Pandas, Matplotlib, Seaborn
 Create clear, insightful visualizations from the 1000 self-scraped books dataset to analyze Price and Rating patterns. This task focuses on storytelling through charts.
 
 📂 Files in Repository
-Internship2_Task3_Visualization.ipynb — Jupyter/Colab notebook with all visualization code
+Task3_Visualization.ipynb — Jupyter/Colab notebook with all visualization code
 
 scraped_books.csv — Dataset of 1000 books (price & rating)
 viz1_price_distribution.png — Histogram of book prices
