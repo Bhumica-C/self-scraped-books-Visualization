@@ -14,7 +14,7 @@ viz2_rating_distribution.png — Count plot of ratings
 viz3_price_by_rating.png — Box plot of price vs rating
 viz4_rating_pie.png — Pie chart of rating share
 
-✨ Key Insights
+Key Insights
 Most books are priced in the lower range, with a few high-price outliers.
 Ratings are skewed towards 3–4 stars, with fewer 1-star books.
 Higher-rated books tend to cluster around moderate prices.
